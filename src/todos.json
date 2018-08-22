@@ -1,0 +1,18 @@
+{
+    "todos": [{
+            "id": 1,
+            "titulo": "task1",
+            "descripcion": "lorem impsum"
+        },
+        {
+            "id": 2,
+            "titulo": "task2",
+            "descripcion": "lorem impsum"
+        },
+        {
+            "id": 3,
+            "titulo": "task3",
+            "descripcion": "lorem impsum"
+        }
+    ]
+}
